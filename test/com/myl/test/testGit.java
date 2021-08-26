@@ -5,5 +5,8 @@ public class testGit {
         int i = 1;
         int j = 2;
         int k = 140;
+        int m = 3;
+        int n = 4;
+
     }
 }
