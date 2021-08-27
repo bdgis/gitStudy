@@ -5,5 +5,7 @@ public class testGit1 {
         int i = 1;
         int j = 2;
         int k = 3;
+        int m = 4;
+        int n = 5;
     }
 }
